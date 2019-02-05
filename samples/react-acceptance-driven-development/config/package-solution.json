@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-acceptance-driven-development-client-side-solution",
+    "id": "4f495dbb-cc21-4d74-841e-a88ceeedbb33",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-acceptance-driven-development.sppkg"
+  }
+}

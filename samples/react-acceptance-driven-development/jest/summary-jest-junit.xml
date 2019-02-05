@@ -1,0 +1,6 @@
+<testsuites name="jest tests" tests="1" failures="0" time="4.017">
+  <testsuite name="Back to Top Button" errors="0" failures="0" skipped="0" timestamp="2019-02-05T21:12:39" time="2.756" tests="1">
+    <testcase classname="Back to Top Button Happy Path Scroll to Top" name="Back to Top Button Happy Path Scroll to Top" time="0.048">
+    </testcase>
+  </testsuite>
+</testsuites>
